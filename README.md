@@ -1,2 +1,2 @@
-# Repository1
+# Misc Repository
 Experimental repository.
