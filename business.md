@@ -8,5 +8,5 @@ The automated driving system consists of a sensing unit, an understanding unit a
 # my thinkings
 I think that when everyone could access to city brain and make decisions by it, city brain generate really big economic value. Based on this, internetization is the vital step for it to succeed.
 # News
-[TechNode](https://technode.com/)
-[TechCrunch](https://techcrunch.com/)
+[TechNode](https://technode.com/)  
+[TechCrunch](https://techcrunch.com/)  
