@@ -10,3 +10,4 @@ I think that when everyone could access to city brain and make decisions by it, 
 # News
 [TechNode](https://technode.com/)  
 [TechCrunch](https://techcrunch.com/)  
+[zaobao](http://www.zaobao.com/zfinance/invest/story20191201-1009715)  
